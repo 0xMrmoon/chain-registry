@@ -294,7 +294,7 @@
       },
        {
         "address": "https://gitopia.rpc.skynodejs.net",
-        "provider": "Skynodejs"
+        "provider": "skynodejs"
       }
     ],
     "rest": [
