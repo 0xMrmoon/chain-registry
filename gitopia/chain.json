@@ -291,6 +291,10 @@
       {
         "address": "https://mainnet-gitopia-rpc.konsortech.xyz",
         "provider": "KonsorTech"
+      },
+       {
+        "address": "https://gitopia.rpc.skynodejs.net",
+        "provider": "Skynodejs"
       }
     ],
     "rest": [
@@ -389,6 +393,10 @@
       {
         "address": "https://mainnet-gitopia-api.konsortech.xyz",
         "provider": "KonsorTech"
+      },
+       {
+        "address": "https://gitopia.api.skynodejs.net",
+        "provider": "Skynodejs"
       }
     ],
     "grpc": [
@@ -463,6 +471,10 @@
       {
         "address": "grpc-gitopia.mms.team:443",
         "provider": "MMS"
+      },
+       {
+        "address": "https://gitopia.grpc.skynodejs.net:14190",
+        "provider": "Skynodejs"
       }
     ]
   },
