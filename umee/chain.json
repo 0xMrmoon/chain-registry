@@ -84,6 +84,10 @@
       {
         "address": "http://rpc-umee-0.node75.org:26657",
         "provider": "Pro-Nodes75"
+      },
+      {
+        "address": "https://ux.rpc.skynodejs.net/",
+        "provider": "skynodejs"
       }
     ],
     "rest": [
@@ -102,6 +106,10 @@
       {
         "address": "https://umee-mainnet-lcd-autostake.net:443",
         "provider": "AutoStake 🛡️ Slash Protected"
+      },
+        {
+        "address": "https://ux.api.skynodejs.net/",
+        "provider": "skynodejs"
       }
     ],
     "grpc": [
@@ -112,7 +120,11 @@
       {
         "address": "umee-grpc.polkachu.com:13690",
         "provider": "Polkachu"
-      }
+      },
+       {
+        "address": "https://ux.grpc.skynodejs.net:9090",
+        "provider": "skynodejs"
+      },
     ]
   },
   "explorers": [
